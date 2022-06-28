@@ -13,3 +13,29 @@ main {
     padding: 10px;
     box box-shadow: 3px 3px 5px black;
 }
+
+h1{
+    font-size: 2em;
+    color:rgb(201, 201, 243) 
+}
+
+h2 {
+    font-size: 1,5em;
+    color:aquamarine;
+}
+
+img.lado {
+    float:right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:blueviolet
+}
+
